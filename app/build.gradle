@@ -106,4 +106,5 @@ dependencies {
 
     implementation 'androidx.lifecycle:lifecycle-process:2.4.0'
     implementation 'androidx.lifecycle:lifecycle-common:2.4.0'
+    implementation 'androidx.work:work-runtime:2.7.0-alpha05'
 }
